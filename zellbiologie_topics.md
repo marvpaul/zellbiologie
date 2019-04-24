@@ -121,7 +121,60 @@ zwischen 6 - 10 nm dick
 - tRNA &rightarrow; transferiert von DNA zur mRNA
 - rRNA &rightarrow; ist am Aufbau und Funktion von Ribosomen beteiligt
 
+## Endomembransystem
+- Organellen mit Membran (Golgi, Lysosome, ER, Mitochondrium, Vakuolen, Vesikel, Kernhülle) können miteinander verbunden sein 
+    - *direkt* &rightarrow; physischer Kontakt
+    - *indirekt* &rightarrow; über Vesikel
+- Jede Membran ist asymetrisch im Bezug auf ihre Lipid- und Proteinbestandteile
+    - *Cytosolic face* Seite die zum Cytosol hin zeigt
+    - *Exoplasmic face*
+
 ## Cytosol 
+- Ort der Proteinsynthese und -abbau (An Ribosomen)
+- Stoffwechsel (Transport von Stoffen innerhalb des Zellkörpers)
+- Struktur durch Cytoskelett 
+- Viele Polysomen
+    - &rightarrow; ` Aneinanderreihung von Ribosomen`
+- Viele Enzyme die an Stoffwechsel beteiligt sind
+    - `Enzym: Biologisches Riesenmolekühl, welches als Katalysator eine chemische Rkt. beschleunigen kann.`
+
+## Endoplasmatisches Retikulum 
+- Endoplasmatisch &rightarrow; im Cytoplasma
+- Retikulum &rightarrow; Netzwerk
+- Kernmembran geht in ER über
+- System aus verbundenen Hohlräumen 
+
+### Glattes ER (ohne Ribosomen)
+#### Funktionen 
+- Synthese von: 
+    - Lipiden 
+    - Phoshoplipiden
+    - Steroiden (u.a. Hormone und Geschlechtshormone)
+- Calciumspeicher
+- Kohlenhydratspeicher 
+- Spielt wichtige Rolle bei Kohlenhydratstoffwechsel
+- Mithilfe zur *Entgiftung* körperfremder Stoffe 
+    - Durch anfügen einer polaren Gruppe wird Wasserlöslichkeit von Stoffe erhöht &rightarrow; können durch Niere besser ausgeschieden werden = nierengängig 
+
+### Raues ER (Mit Ribosomen)
+#### Funktionen 
+- Besetzt mit Ribosomen &rightarrow; Proteinbiosynthese
+    - Synthetisierte Ribosomen werden nach Produktion an den Ribosomen direkt in ER transportiert
+- Glycolisierung von Proteinen im Lumen der ER
+    - *Lumen* &rightarrow; innerer (Hohl)raum von Organellen
+- Abstaltung von Vesikeln
+- Membranproduktion
+
+#### Vesikel 
+- Bläschen aus Zellmebran, welches im inneren Stoffe enthalten kann
+- Transport von Stoffen von einer zu anderen Membran 
+- Ablauf
+    - Vesikel mit Adressinformation spaltet sich von Membran ab
+    - geschlossenes Vesikel wird zu Ziel transportiert
+    - Vesikel dockt an Zielmembran an und wird geöffnet
+    
 ### Mikrotubuli 
 - Formgebend / Stabilisierung der Zelle 
 - "Schienen", an denen sich u.a. Dynein und Kinesin fortbewegen könnnen
+- MTOC - Microtubule Organizing Center &rightarrow; Zentrum, in denen Mikrotubuli entstehen (z.B. Centrosom)
+
