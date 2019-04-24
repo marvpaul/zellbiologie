@@ -120,3 +120,8 @@ zwischen 6 - 10 nm dick
 - mRNA &rightarrow; messenger RNA zur Proteinbiosynthese
 - tRNA &rightarrow; transferiert von DNA zur mRNA
 - rRNA &rightarrow; ist am Aufbau und Funktion von Ribosomen beteiligt
+
+## Cytosol 
+### Mikrotubuli 
+- Formgebend / Stabilisierung der Zelle 
+- "Schienen", an denen sich u.a. Dynein und Kinesin fortbewegen könnnen
