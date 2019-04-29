@@ -7,7 +7,53 @@
     - Wesentlich komplexer
     - z.B. Tier- und Menschenzelle
 
+
+## Endosymbionten Theorie
+- Enstehung eukaryotischer Zellen aus Symbiose von prokaryotischen Vorläuferorganismen
+ ### Zwischenschritte
+1. Kompartimentierung von DNA in Zellkern + Ansiedlung von Ribosomen in ER um Zellkern herum
+    - Von Prokaryotischer Zelle hin zur traditionellen eukaryotischen Zelle
+2. Aufnahme von Bakterium ins innere der Zelle &rightarrow; Dient nun als Energiefabrik / Mitochondrium
+    - Von tradioneller eukaryotischer Zelle hin zur früher eukaryotisches Zelle
+3. Aufnahme von photosynthetischen Bakterien 
+    - Von früher eukaryotischen Zelle hi zum eukaryoten mit Fähigkeit zur Photosynthese
+
+## Grundlagen der Biochemie
+
+### Stoffgruppen
+![Biochem 1](./chem_basics1.jpg)
+![Biochem 2](./chem_basics2.jpg)
+![Biochem 3](./chem_basics3.jpg)
+![Biochem 4](./chem_basics4.jpg)
+
+
+
+## Questions
+Was ist Golgi-Apparat & Lysosom & Peroxisomen?
+
 ## Struktureller Aufbau eukaryotischer Zelle 
+### Inhalte einer typischen eukaryotischen Zelle
+
+![Inhalte einer typischen eukaryotischen Zelle](./2880px-Biological_cell.png)
+1. Nucleolus (Kernkörperchen)
+2. Zellkern (Nukleus)
+3. Ribosomen
+4. Vesikel 
+5. Raues endoplasmatisches Retikulum
+6. Golgi-Apparat
+7. Mikrotubuli
+8. Glattes endoplasmatisches Retikulum
+9. Mitochondrien 
+10. Lysosom 
+11. Cytoplasma
+12. Peroxisomen
+13. Zentriolen 
+- **Quelle**: https://de.wikipedia.org/wiki/Zelle_(Biologie)#/media/File:Biological_cell.svg
+
+- **Wichtig**: Im Gegensatz zur gezeigten Abbildung kommt es oft vor, das Inhalte mehrfach vorkommen (mehrere Mitochondrien oder Mikrotubuli)
+
+### Hiraische Anordnung der Bestandteile
+
 - Zellmembran 
     - Zellwand (bei Pflanzenzellen)
 - Protoplasma (Inhalt)
@@ -22,7 +68,9 @@
                 - mit einfacher Membran 
                 - mit doppelter Membran
 
-## Zellmembran 
+## Zellmembran
+![Inhalte der Zellmembran](./2880px-Cell_membrane_detailed_diagram_de.png)
+-**Quelle**:  https://de.wikipedia.org/wiki/Zellmembran#/media/File:Cell_membrane_detailed_diagram_de.svg
 ### Aufbau
 - Membranproteine mit bestimmten Aufgaben 
     - Transportproteine
@@ -69,16 +117,6 @@ zwischen 6 - 10 nm dick
                 - Ionen werden entlang des Gradienten transportiert und Energie wird zum Transport anderer Moleküle genutzt
                 - Symporter &rightarrow; Transport in Richtung des Gradientenflusses
                 - Antiporter &rightarrow; Transport entgegen des Gradientflusses
-
-## Endosymbionten Theorie
-- Enstehung eukaryotischer Zellen und Symbiose von prokaryotischen Vorläuferorganismen
- ### Zwischenschritte
-1. Kompartimentierung von DNA in Zellkern + Ansiedlung von Ribosomen in ER um Zellkern herum
-    - Von Prokaryotischer Zelle hin zur traditionellen eukaryotischen Zelle
-2. Aufnahme von Bakterium ins innere der Zelle &rightarrow; Dient nun als Energiefabrik / Mitochondrium
-    - Von tradioneller eukaryotischer Zelle hin zur früher eukaryotisches Zelle
-3. Aufnahme von photosynthetischen Bakterien 
-    - Von früher eukaryotischen Zelle hi zum eukaryoten mit Fähigkeit zur Photosynthese
 
 
 ## Zellkern (Nukleus)
@@ -129,7 +167,18 @@ zwischen 6 - 10 nm dick
     - *Cytosolic face* Seite die zum Cytosol hin zeigt
     - *Exoplasmic face*
 
+### Vesikel 
+- Bläschen aus Zellmebran, welches im inneren Stoffe enthalten kann
+- Transport von Stoffen von einer zu anderen Membran 
+- Ablauf
+    - Vesikel mit Adressinformation spaltet sich von Membran ab
+    - geschlossenes Vesikel wird zu Ziel transportiert
+    - Vesikel dockt an Zielmembran an und wird geöffnet
+- **Pulse-chase Experiment**
+    - Radioaktive Markierung einiger im ER gebildeter Proteine 
+
 ## Cytosol 
+- Flüssiger Bestandteil des Cytoplasma
 - Ort der Proteinsynthese und -abbau (An Ribosomen)
 - Stoffwechsel (Transport von Stoffen innerhalb des Zellkörpers)
 - Struktur durch Cytoskelett 
@@ -165,15 +214,25 @@ zwischen 6 - 10 nm dick
 - Abstaltung von Vesikeln
 - Membranproduktion
 
-#### Vesikel 
-- Bläschen aus Zellmebran, welches im inneren Stoffe enthalten kann
-- Transport von Stoffen von einer zu anderen Membran 
-- Ablauf
-    - Vesikel mit Adressinformation spaltet sich von Membran ab
-    - geschlossenes Vesikel wird zu Ziel transportiert
-    - Vesikel dockt an Zielmembran an und wird geöffnet
-    
-### Mikrotubuli 
+
+## Ribisomen 
+- Ort der Proteinbiosymthese 
+    - &rightarrow; `Translation`, Übersetzung von mRNA in Abfolge von Aminosäuresequenz (Polypeptid, Protein)
+
+- Translation im Cytosol 
+    1. Pool aus freien Ribosomen steht im Cytosol bereit
+    2. mRNA heftet sich an freies Ribosom 
+    3. Aneinanderreihung mehrere Ribosomen mit gebundener mRNA zu Polyribosom
+    4. Bildung des in mRNA codierten Proteins
+    - ![Ribosom in Cytosol](./ribosoms_in_cytosol.png)
+- Translation ins ER hinein
+    1. Pool aus freien Ribosomen steht im Cytosol bereit
+    2. mRNA heftet sich an freies Ribosomen und der Anfang eines Polypeptids wird gebildet (Am Ende steht eine ER Signal Sequenz)
+    3. Anheften der ER Signalsequenz an Membran des ER 
+    4. Bildung von Polyribosom an ER 
+    5. Bildung des komletten Proteins + Abgabe in ER Lumen 
+    -![Ribosom an ER](./ribosoms_in_er.png)
+## Mikrotubuli 
 - Formgebend / Stabilisierung der Zelle 
 - "Schienen", an denen sich u.a. Dynein und Kinesin fortbewegen könnnen
 - MTOC - Microtubule Organizing Center &rightarrow; Zentrum, in denen Mikrotubuli entstehen (z.B. Centrosom)
