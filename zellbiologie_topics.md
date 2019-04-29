@@ -173,9 +173,20 @@ zwischen 6 - 10 nm dick
 - Ablauf
     - Vesikel mit Adressinformation spaltet sich von Membran ab
     - geschlossenes Vesikel wird zu Ziel transportiert
-    - Vesikel dockt an Zielmembran an und wird geöffnet
+    - `Exocytose` &rightarrow; Vesikel dockt an Zielmembran an und wird geöffnet
+        - Ungetriggerte (konstitutive) Exocytose
+        - Getriggerte Exocytose
 - **Pulse-chase Experiment**
     - Radioaktive Markierung einiger im ER gebildeter Proteine 
+    - Aufnahme nach 3, 20 und 120 Minuten 
+    - Ergebnis: Radioaktiv markierte Proteine wandern durch das Cytosol zu anderen Endomembranorganellen
+
+#### Vesikeltransport im Cytoplasma
+![Bewegung von Vesikeln](vesicel_movement.png)
+1. Vesikel spaltet sich von Membran ab
+2. Bildung von vesikulären Clustern am Motorprotein eines Mikrotubuli
+3. Transport zu Zielorganell
+4. Exocytose
 
 ## Cytosol 
 - Flüssiger Bestandteil des Cytoplasma
@@ -232,6 +243,27 @@ zwischen 6 - 10 nm dick
     4. Bildung von Polyribosom an ER 
     5. Bildung des komletten Proteins + Abgabe in ER Lumen 
     -![Ribosom an ER](./ribosoms_in_er.png)
+
+## Golgi-Apparat
+### Funktionen
+- Sortierung und Modifizierung von in ER hergestellten Proteinen 
+    - Phosphorylierung und Glycosylierung von Proteinen 
+    - z.T. Zusammensetzen von Makromolekühlen
+- Sammlung von Zellprodukten, die über Vesikel entweder nach außen Abgegeben (`Sekretion`) oder an andere Organellen weitergeleitet werden
+
+### Aufbau 
+- Stapel flacher Zisternen (Holhräume), umgeben von vielen Vesikeln
+- Polarer Aufbau (cis und trans)
+- Cis Seite
+    - &rightarrow; Seite, die ER zugewandt ist und von dort Vesikel vom ER empfangen werden
+    - Eingangsseite
+    - Besteht aus cis-Golgi-Netzwerk (CGN)
+- Trans Seite
+    - &rightarrow; Seite, die Plasmamembran zugewandt ist und an der Vesikel verschickt werden
+    - Ausgangsseite 
+    - Besteht aus trans-goglgi-netzwerk (TGN)
+- Medial &rightarrow; Teil zwischen trans und cis
+    - Jede Zisterne enthält hier unterschiedliche Enzyme
 ## Mikrotubuli 
 - Formgebend / Stabilisierung der Zelle 
 - "Schienen", an denen sich u.a. Dynein und Kinesin fortbewegen könnnen
