@@ -306,11 +306,6 @@ zwischen 6 - 10 nm dick
 - Entgiftung 
 - Abbau von Fettsäuren
 
-## Mikrotubuli 
-- Formgebend / Stabilisierung der Zelle 
-- "Schienen", an denen sich u.a. Dynein und Kinesin fortbewegen könnnen
-- MTOC - Microtubule Organizing Center &rightarrow; Zentrum, in denen Mikrotubuli entstehen (z.B. Centrosom)
-
 ## Mitochondrien 
 
 ![Mitochondrium](./mitoch.png)
@@ -361,10 +356,46 @@ zwischen 6 - 10 nm dick
 ### Bestandteile 
 1. Mikrofilamente, Aktinfilamente (8 nm)
 2. Intermediärfilamente (10 nm)
-3. Mikrotubuli (25 nm)
+3. Mikrotubuli (25 nm Durchmesser)
 
 ### Aufgaben 
 - Veränderung der Zellstruktur durch schnellen Ab- und Aufbau von Filamentgeflechten
 
 ### Mikrofilamente (Aktinfilamente)
 - Feste Stäbchen aus dem Protein Aktin
+    - Monomere Form &rightarrow; G-Aktin 
+    - Polymere Form &rightarrow; F-Aktin (Filamentös)
+- Besitzen polare Enden
+    - positives Ende kann u.U. weiter wachsen 
+    - negatives Ende zerfällt ständig
+- Aktin bindet verschiedene Proteine, je nach angelagertem Protein verändert sich die Art der Bindung zu anderem 
+    - Aktinbündel &rightarrow; dicht gepackte, parallele Anordnung, Verbunden durch Protein Fascin 
+    - Aktin-Netzwerk &rightarrow; sich kreuzende Fasern, verbunden durch Protein Filamin 
+#### Aufgaben 
+- Kontraktion in Zusammenspiel mit Myosinfilamenten
+- Kontraktion bestimmter Zellbereiche oder ganzer Zelle &rightarrow; z.B. zur Fortbewegung der Zelle
+- Formgebung und lokale Struktur
+
+#### Myosin als Motorprotein des Actins
+- Kopfteil, der sich an Leitstruktur (Aktin) bindet
+-  Schwanzteil, der verschiedene Vesikel binden kann
+- Unter Nutzung von bei Hydrolyse freiwerdenden Energie des ATP ändert sich die Molekühlformation &rightarrow; Bewegung an Aktinelement entlang
+
+### Mikrotubuli
+- Langer, hohler Zylinder
+- an Centrosomen angehangen / verankert (Minusende)
+- Besitzen polare Enden
+    - positives Ende kann u.U. weiter wachsen 
+    - negatives Ende &rightarrow; Abbau des Mikrotubuli oder Bindung an ein Membranprotein
+- Mikrotubuli kann Proteine binden (MAP's, Mikrotubuli-assoziiertes Protein)
+- MTOC - Microtubule Organizing Center &rightarrow; Zentrum, in denen Mikrotubuli entstehen (z.B. in Zentriolen)
+
+
+#### Kinesin & Dynein als Motoprotein der Mikrotubuli
+- Kinesin &rightarrow; Transport von Organellen in plus-Richtung
+- Dynein &rightarrow; Transport von Organellen in minus-Richtung
+![Transport](dynein_kinesin.png)
+
+#### Funktion
+- Struktur der Zelle 
+- Schienen für Transport von Organellen 
