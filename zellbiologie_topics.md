@@ -230,6 +230,14 @@ zwischen 6 - 10 nm dick
 ## Ribisomen 
 - Ort der Proteinbiosymthese 
     - &rightarrow; `Translation`, Übersetzung von mRNA in Abfolge von Aminosäuresequenz (Polypeptid, Protein)
+- 25 nm Größe
+- Bestehen aus zwei unterschiedlich großen Untereinheiten die jeweils 60% rRNA und 40% Proteine enthalten
+- Unterscheidung von eukaryotischen und prokaryotischen Ribosomen durch Svedbergkonstante je Untereinheit
+    - 30S kleine UE, 50S große UE &rightarrow; prokaryotisches Ribosom
+    - 40S kleine UE, 60S große UE &rightarrow; eukaryotisches Ribosom
+
+
+
 
 - Translation im Cytosol 
     1. Pool aus freien Ribosomen steht im Cytosol bereit
@@ -307,3 +315,56 @@ zwischen 6 - 10 nm dick
 
 ![Mitochondrium](./mitoch.png)
 - **Quelle** &rightarrow; https://de.wikipedia.org/wiki/Mitochondrium#/media/File:Animal_mitochondrion_diagram_de.svg
+
+### Aufbau 
+- 1μm Größe
+- Umgeben von Doppelmembran 
+    - Innere Membran mit Einfaltungen (Cristae)
+    - Innere Membran wenig permeabel, spezielle Transporter
+    - Äußere Membran permeabel für ATP, NAD, CoA
+
+- Matrix (Innenraum) mit
+    - hoher Konzentration an Proteinen
+    - mtDNA &rightarrow; mitochodriale DNA
+    - Ribosomen 
+
+### Aufgaben 
+- Energieumwandlung von Glucose in ATP unter Nutzung von Sauerstoff und anderem
+    - Pyruvate aus Glycolyse und Sauerstoff als Eingangsstoffe 
+    - Einspeisung in TCA-Zyklus 
+    - ATP-Synthase an Cristae
+- kein Teil des Endomembransystems
+
+## Chloroplasten
+- vorkommen in Algen, Blättern und Pflanzenzellen
+- 2 - 4 μm Größe
+- Umwandlung von Lichtenergie in chemische Energie
+
+### Aufbau 
+- Dopppelmembran mit Intermembranraum 
+    - Innhere Membran wenig durchlässig
+- Stroma (Innenraum) mit
+    - plDNA
+    - Ribosomen
+- Thylakoid Membran mit Thylakoidraum im inneren (Stapelweise &rightarrow; Grana)
+    - Thylakoidraum &rightarrow; Ort des Photosyntheseapparats / ATP Synthese
+    - Hohe Proteinkonzentration
+- Thylakoid Lumen
+
+## Vergleich Chloroplasten & Mitochondrien 
+![Vergleich Chloroplasten & Mitochondrien](comp_mitoch_chloro.png)
+
+## Cytosklelett
+- Erhält Zellstruktur und innere Festigkeit aufrecht 
+- Notwendigkeit für Bewegung von Stoffen in der Zelle und für die Bewegung der Zelle selbst
+
+### Bestandteile 
+1. Mikrofilamente, Aktinfilamente (8 nm)
+2. Intermediärfilamente (10 nm)
+3. Mikrotubuli (25 nm)
+
+### Aufgaben 
+- Veränderung der Zellstruktur durch schnellen Ab- und Aufbau von Filamentgeflechten
+
+### Mikrofilamente (Aktinfilamente)
+- Feste Stäbchen aus dem Protein Aktin
