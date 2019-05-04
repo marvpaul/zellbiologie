@@ -354,12 +354,21 @@ zwischen 6 - 10 nm dick
 - Notwendigkeit für Bewegung von Stoffen in der Zelle und für die Bewegung der Zelle selbst
 
 ### Bestandteile 
-1. Mikrofilamente, Aktinfilamente (8 nm)
-2. Intermediärfilamente (10 nm)
+1. Mikrofilamente, Aktinfilamente (8 nm Durchmesser)
+2. Intermediärfilamente (10 nm Durchmesser, mehrere μm lang)
 3. Mikrotubuli (25 nm Durchmesser)
 
-### Aufgaben 
-- Veränderung der Zellstruktur durch schnellen Ab- und Aufbau von Filamentgeflechten
+### Zusammenfassung 
+| | Mikrotubuli | Intermediärfilament | Mikrofilament / Aktinfilament |
+|----|:--------:|:---------:|--------|
+Einzelteile, die sich zu Polymeren zusammensetzen | &alpha;, &beta;-tubulin heterodimer | verschiedenste Proteine, z.B. Keratin | Aktin-Monomere |
+|Bevorzugte Verbindungsseite | + Ende | Intern | + Ende |
+| Polar | Ja | Nein | Ja |
+|Enzym, welches beim Verbinden der Einzelteile unterstützt|GTPase|Keines| ATPase |
+| Motorprotein | Kinesin, Dynein| Keines| Myosin|
+|Hauptsächlich gebundenes Protein| MAP's|Plakins|Aktin-bindende Proteine|
+|Struktur|Zylinderförmig mit Lumen|Starke, seilartige Fäden|Flexibel, helixförmiges Filament|
+|Primäre Funktion|Intrazellulärer Transport|Strukturgebend|Kontraktion der Zelle &rightarrow; ermöglicht z.B. Bewegung der Zelle in einem Medium|
 
 ### Mikrofilamente (Aktinfilamente)
 - Feste Stäbchen aus dem Protein Aktin
@@ -378,8 +387,7 @@ zwischen 6 - 10 nm dick
 
 #### Myosin als Motorprotein des Actins
 - Kopfteil, der sich an Leitstruktur (Aktin) bindet
--  Schwanzteil, der verschiedene Vesikel binden kann
-- Unter Nutzung von bei Hydrolyse freiwerdenden Energie des ATP ändert sich die Molekühlformation &rightarrow; Bewegung an Aktinelement entlang
+- Unter Nutzung von bei Hydrolyse freiwerdenden Energie des ATP ändert sich die Molekühlformation &rightarrow; Bewegung von Aktinfilament
 
 ### Mikrotubuli
 - Langer, hohler Zylinder
@@ -399,3 +407,27 @@ zwischen 6 - 10 nm dick
 #### Funktion
 - Struktur der Zelle 
 - Schienen für Transport von Organellen 
+
+
+### Intermediärfilamente 
+- flexibel, aber fest 
+- können gerade, verzweigt oder gebündelt sein 
+- Zusammensetzung: verschiedene Proteine
+    - Keratinfilament
+    - Laminfilament 
+    - ...
+- Gebundenes Protein bestimmt über den Verbund von Mikrofilament mit anderem (z.B. Plectin &rightarrow; Bindung an Mikrotubuli)
+
+#### Aufbau 
+![intermediar](intermediar.png)
+- Monomere werden zu Dimeren verdreht
+- Dimere heften sich aneinander &rightarrow; Tetramere
+- Tetramere heften sich wiederum aneinander
+
+#### Aufgaben 
+- Stärkung des Zusammenhalts von Gewebe 
+- Formen Netzwerk der Kernlamina 
+- Erstrecken sich durch Cytoplasma &rightarrow; Verantwortlich für mechanische Stärke der Zelle
+- Zusammenhalt von Zellen untereinander
+    - Bindung von IF an Zellmembran über Protein 
+    - Protein stellt Verbindung zwischen den einzelnen Zellen her 
