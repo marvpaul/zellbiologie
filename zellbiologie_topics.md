@@ -176,6 +176,7 @@ zwischen 6 - 10 nm dick
     - `Exocytose` &rightarrow; Vesikel dockt an Zielmembran an und wird geöffnet
         - Ungetriggerte (konstitutive) Exocytose
         - Getriggerte Exocytose
+    - `Endozytose`&rightarrow; Vorgang bei dem aus zellularer Umgebung durch Einstülpungen Stoffe aufgenommen werden 
 - **Pulse-chase Experiment**
     - Radioaktive Markierung einiger im ER gebildeter Proteine 
     - Aufnahme nach 3, 20 und 120 Minuten 
@@ -264,6 +265,39 @@ zwischen 6 - 10 nm dick
     - Besteht aus trans-goglgi-netzwerk (TGN)
 - Medial &rightarrow; Teil zwischen trans und cis
     - Jede Zisterne enthält hier unterschiedliche Enzyme
+
+## Lysosom
+### Aufbau 
+- von Membran umgeben 
+- 0.1 - 1 μm
+- Saurer pH-Wert &rightarrow; 5
+- Enthalten Verdauungsenzyme (viele saure Hydrolasen)
+
+### Aufgaben 
+- Abbau von (verbrauchten) Zellbestandteilen (`Autophagie` &rightarrow; auto = selbst)
+- Abbau von Material aus extrazellulärer Umgebung, z.B. Bakterien (`Heterophagie` &rightarrow; hetero = fremd)
+
+## Vakuole
+- große, von Membran umschlossene Räume 
+- v.a. in Pflanzen und Pilzen 
+- pH sauer, enthält lysosomale Enzyme 
+- 30 - 90% von Zellgröße
+    - &rightarrow; hilft bei Regulation der Zellgröße
+
+### Aufgaben 
+- Speicherung von
+    - überschüssigen Salzen 
+    - Nebenprodukten des Stoffwechsels
+    - Farbstoff Anthocyan
+
+## Peroxisomen 
+- von Membran umgeben 
+- Inhalt: verschiedene Enzyme (v.a. oxidative &rightarrow; Sauerstoff verbrauchende)
+
+### Aufgaben 
+- Entgiftung 
+- Abbau von Fettsäuren
+
 ## Mikrotubuli 
 - Formgebend / Stabilisierung der Zelle 
 - "Schienen", an denen sich u.a. Dynein und Kinesin fortbewegen könnnen
