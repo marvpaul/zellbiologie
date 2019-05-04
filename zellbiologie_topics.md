@@ -303,3 +303,7 @@ zwischen 6 - 10 nm dick
 - "Schienen", an denen sich u.a. Dynein und Kinesin fortbewegen könnnen
 - MTOC - Microtubule Organizing Center &rightarrow; Zentrum, in denen Mikrotubuli entstehen (z.B. Centrosom)
 
+## Mitochondrien 
+
+![Mitochondrium](./mitoch.png)
+- **Quelle** &rightarrow; https://de.wikipedia.org/wiki/Mitochondrium#/media/File:Animal_mitochondrion_diagram_de.svg
