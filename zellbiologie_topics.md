@@ -41,7 +41,7 @@
 
 ### Stoffgruppen
 |Bauteile einer Zelle|Größe Einheiten in Zelle|
-|---|-----|
+|---|----------------------|
 |Zucker|Polysaccharide|
 |Fettsäuren|Fette, Lipide, Membranen|
 |Aminosäuren|Proteine|
