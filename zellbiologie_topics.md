@@ -19,17 +19,31 @@
     - Von früher eukaryotischen Zelle hi zum eukaryoten mit Fähigkeit zur Photosynthese
 
 ## Grundlagen der Biochemie
+### Chemische Zusammensetzung einer Zelle
+|Element| Anz. Atome | % Anteil im Körper|
+|-------|:----------:|-------------------|
+|O &rightarrow; Sauerstoff|8|65%|
+|C &rightarrow; Kohlenstoff|6|19%|
+|H &rightarrow; Wasserstoff|1|10%|
+|N &rightarrow; Stickstoff|7|3%|
+|Ca &rightarrow; Calcium|20|2%|
+|P &rightarrow; Phosphor|15|1%|
+|K &rightarrow; Kalium|19|0.5%|
+|S &rightarrow; Schwefel|16|0.3%|
+|Na &rightarrow; Natrium|11|0.2%|
+|Cl &rightarrow; Chlor|17|0.2%|
 
 ### Stoffgruppen
+|Bauteile einer Zelle|Größe Einheiten in Zelle|
+|---|-----|
+|Zucker|Polysaccharide|
+|Fettsäuren|Fette, Lipide, Membranen|
+|Aminosäuren|Proteine|
+|Nukleotide|Nukleonsäuren|
 ![Biochem 1](./chem_basics1.jpg)
 ![Biochem 2](./chem_basics2.jpg)
 ![Biochem 3](./chem_basics3.jpg)
 ![Biochem 4](./chem_basics4.jpg)
-
-
-
-## Questions
-Was ist Golgi-Apparat & Lysosom & Peroxisomen?
 
 ## Struktureller Aufbau eukaryotischer Zelle 
 ### Inhalte einer typischen eukaryotischen Zelle
