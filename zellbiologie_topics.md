@@ -46,6 +46,8 @@
 |Fettsäuren|Fette, Lipide, Membranen|
 |Aminosäuren|Proteine|
 |Nukleotide|Nukleonsäuren|
+
+
 ![Biochem 1](./chem_basics1.jpg)
 ![Biochem 2](./chem_basics2.jpg)
 ![Biochem 3](./chem_basics3.jpg)
