@@ -131,7 +131,7 @@ zwischen 6 - 10 nm dick
         - Erfordert Transportprotein (Carrier)
         - Ohne Energieverbrauch, nur durch Transformationsänderung 
         - z.B. Glucosetransport 
-        - ![Glukose Transport](erleichterte_diffusion.png)
+        - <img src="erleichterte_diffusion.png" width="50%"> 
     - Aktiver Transport
         - Erfordert Energie zum Transport 
         - Primärer Transport &rightarrow; Transport durch ATP
