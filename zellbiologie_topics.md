@@ -53,6 +53,9 @@
 ![Biochem 3](./chem_basics3.jpg)
 ![Biochem 4](./chem_basics4.jpg)
 
+## Größenverhältnis versch. Bestandteile
+![Skala](scale.jpg)
+
 ## Struktureller Aufbau eukaryotischer Zelle 
 ### Inhalte einer typischen eukaryotischen Zelle
 
@@ -140,9 +143,10 @@ zwischen 6 - 10 nm dick
                 - Symporter &rightarrow; Transport in Richtung des Gradientenflusses
                 - Antiporter &rightarrow; Transport entgegen des Gradientflusses
 
+![Versch. Transporter](transporters.jpg)
 
 ## Zellkern (Nukleus)
-
+![Kern](core.png)
 ### Aufbau 
 - Innere und äußere Membran
     - Kernporen 
