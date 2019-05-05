@@ -33,6 +33,12 @@
 |Na &rightarrow; Natrium|11|0.2%|
 |Cl &rightarrow; Chlor|17|0.2%|
 
+### Wasser
+![Wasser](water.jpg)
+
+### Funktionelle Gruppen 
+![Funktionelle Gruppen](functional_groups.jpg)
+
 ### Stoffgruppen
 |Bauteile einer Zelle|Größe Einheiten in Zelle|
 |---|-----|
