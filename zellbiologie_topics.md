@@ -99,6 +99,9 @@
 ### Aufbau
 - Membranproteine mit bestimmten Aufgaben 
     - Transportproteine
+    - Kommunikation mit der Außenwelt
+    - Übertragung von Signalen 
+    - Verbindung mit anderen Zellen
     - Versch. Arten von Membranproteinen
         - Integrale Membranproteine (in der Membran)
         - Periphere Membranproteine (An Membran angelagert)
