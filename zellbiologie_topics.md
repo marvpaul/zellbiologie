@@ -187,7 +187,7 @@ zwischen 6 - 10 nm dick
 - rRNA &rightarrow; ist am Aufbau und Funktion von Ribosomen beteiligt
 
 ## Endomembransystem
-- Organellen mit Membran (Golgi, Lysosome, ER, Mitochondrium, Vakuolen, Vesikel, Kernhülle) können miteinander verbunden sein 
+- Organellen mit Membran (Golgi, Lysosome, ER, Vakuolen, Vesikel, Kernhülle) können miteinander verbunden sein 
     - *direkt* &rightarrow; physischer Kontakt
     - *indirekt* &rightarrow; über Vesikel
 - Jede Membran ist asymetrisch im Bezug auf ihre Lipid- und Proteinbestandteile
