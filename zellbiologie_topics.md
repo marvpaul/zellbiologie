@@ -247,7 +247,7 @@ zwischen 6 - 10 nm dick
 ### Raues ER (Mit Ribosomen)
 #### Funktionen 
 - Besetzt mit Ribosomen &rightarrow; Proteinbiosynthese
-    - Synthetisierte Ribosomen werden nach Produktion an den Ribosomen direkt in ER transportiert
+    - Synthetisierte Proteine werden nach Produktion an den Ribosomen direkt in ER transportiert
 - Glycolisierung von Proteinen im Lumen der ER
     - *Lumen* &rightarrow; innerer (Hohl)raum von Organellen
 - Abstaltung von Vesikeln
@@ -458,3 +458,45 @@ Einzelteile, die sich zu Polymeren zusammensetzen | &alpha;, &beta;-tubulin hete
 - Zusammenhalt von Zellen untereinander
     - Bindung von IF an Zellmembran über Protein 
     - Protein stellt Verbindung zwischen den einzelnen Zellen her 
+
+
+## Zellzyklus
+- Verdopplung des. gen. Materials und der Zellmasse 
+
+### Phasen des Zellzyklus
+- Interphase (Phase zwischen zwei Zellteilungen, 90% der Zeit)
+    - G1-Phase (g &rightarrow; gap, keine Replikation)
+        - RNA und Proteinbiosynthese, Zellwachstum und Bildung von Organellen
+    - G0-Phase
+        - Ausstieg aus G1-Phase
+    - S-Phase
+        - Replikation der DNA / Chromatid &rightarrow; Chromosome mit je zwei Chromatiden
+    - G2 Phase
+        - Weitere RNA und Proteinbiosynthese
+        - Überprüfung auf korrekte Replikation der DNA
+- M(itose)-Phase
+    - Prophase
+        - Chromatin kondensiert zu Chromosomen und wird so sichtbar
+    - Prometaphase
+        - Zusammenbruch der Kernmembran 
+        - Ausbildung von Spindelapparaten aus Centriolen und dazwischen gespannten Mikrotubuli
+    - Metaphase
+        - Spindelfasern docken an Centromer der Chromosomen 
+    - Anaphase
+        - Verkürzung der Spindelfasern 
+            - Auftrennung von Chrosomen in ihre zwei Chromatidstränge 
+            - Transport von je einem Strang zu einem Pol / Centriol der Zelle
+    - Telophase
+        - Bildung von Kernmebran
+        - Entfaltung der Chromosomen 
+    - Cytokinese
+        - Zellplasmateilung
+
+
+### Kontrollsystem des Zellzyklus
+- Besteht aus: 
+    - Molekulare "Uhr"
+    - Set von Checkpunkten in G1, G2 und M-Phase
+        - G1-Checkpoint vor Eintritt in G2-Phase &rightarrow; Ist die Umgebung angemessen? 
+        - G2-Checkpoint vor Eintritt in M-Phase &rightarrow; ist die DNA verdoppelt? Ist die Umgebung angemessen?
+        - Metaphase-Phase Checkpoint vor Eintritt in Cytokinese &rightarrow; Sind alle Chromosomen an die Spindeln geheftet? 
