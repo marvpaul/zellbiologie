@@ -123,7 +123,6 @@ zwischen 6 - 10 nm dick
 - Signalübertragung 
 - Zellwachstum und Beweglichkeit
 - Transport kleiner Moleküle 
-    - Verschiedene Transportmöglichkeiten aufzählen 
     - Passive Diffusion
         - Transport von Stoffe ohne Aufwendung von Energie
         - Ausgleich von Konzentrationsgefälle
