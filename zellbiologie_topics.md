@@ -99,6 +99,9 @@
 ### Aufbau
 - Membranproteine mit bestimmten Aufgaben 
     - Transportproteine
+    - Kommunikation mit der Außenwelt
+    - Übertragung von Signalen 
+    - Verbindung mit anderen Zellen
     - Versch. Arten von Membranproteinen
         - Integrale Membranproteine (in der Membran)
         - Periphere Membranproteine (An Membran angelagert)
@@ -120,7 +123,6 @@ zwischen 6 - 10 nm dick
 - Signalübertragung 
 - Zellwachstum und Beweglichkeit
 - Transport kleiner Moleküle 
-    - Verschiedene Transportmöglichkeiten aufzählen 
     - Passive Diffusion
         - Transport von Stoffe ohne Aufwendung von Energie
         - Ausgleich von Konzentrationsgefälle
