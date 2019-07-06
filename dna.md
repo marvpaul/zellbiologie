@@ -35,8 +35,6 @@
 ![](consensus.png)
 
 
-## Promotersequenzen
-- Nicht kodierende Stellen in der DNA, an denen RNA Polymerase für Transkription bindet
 
 ## Start der Replikation
 
@@ -129,6 +127,112 @@
 - Bei größeren Schäden 
 - Notfallreparatur &rightarrow; viele Fehler, meist nicht erfolgreich
 - Ohne Reparatur keine Replikation möglich!
+
+## Promotersequenzen
+- Kennzeichnet beginn eines Genes
+- Nicht kodierende Stellen in der DNA, an denen RNA Polymerase für Transkription bindet
+
+## Terminatorsequenz
+- Zeigt an, wann ein Gen zu ende ist 
+
+
+# Transkription 
+
+## Allgemein 
+- Erfolgt durch RNA-Polymerase
+- Nur ein DNA Strang wird in Downstreamrichtung als Vorlage für RNA genutzt
+- Transkription von einzelnen Genen (DNA Sequenz, die ein Protein codiert)
+
+## RNA
+- Ribose als Zucker, anstatt Desoxyribose bei DNA
+- Uraciel anstelle von Thymin
+
+
+## Downstream & Upstream 
+- Downstream &rightarrow; in Richtung von 3' Ende der DNA
+- Upstream &rightarrow; in Richtung von 5' Ende der DNA
+
+## Ablauf
+- RNA-Polymerase bindet an Promotor (Promoter enthält meist TATAA und GC-Box Consensus-Sequenz)
+    - Bei Eukaryonten hilft der Transkriptionsfaktor 2 bei der Erkennung des Promotors 
+- DNA-Abschnitt wird unter Mithilfe von DNA-Polymerase abgelesen und komplementäre RNA wird gebaut
+- Polyadenylierungsstelle (5’-AAUAAA-3’) dient als Terminator. Durch Hilfsprotein wird dieses erkannt und das Ende der Trankription eingeleitet
+
+![](./transcription.png)
+
+
+## Schutz / Postprocessing der RNA
+- **Capping** &rightarrow; am 5' Ende wird GTP hinzugefügt um schnellen Abbau der RNA zu verhindern 
+- **Polyadenylierung** &rightarrow; am 3' Ende werden viele A-Reste angehangen
+- **Splicing** &rightarrow; Introns (nicht codierende Genabschnitte) werden herausgeschnitten, Extrons zusammengeführt
+
+
+## Genorganisation 
+- **mono-cistronisch** &rightarrow; ein Gen wird durch einen Promotor kontrolliert
+- **poly-cistronisch** &rightarrow; mehrere Gene werden über gemeinsamen Promotor reguliert
+    - Vorteil: Zusammengehörige Proteine werden gemeinsam synthetisiert
+
+## Genregulation - Operon Modell
+- Sogenannter Repressor bindet an Operator und verhindert Bindung von DNA-Polymerase &rightarrow; keine Trankription möglich 
+- Ein Induktor (z.B. Lactose) kann an Repressorprotein binden, dadurch verliert der Repressor die Bindung zum Operator und es kann eine Transkription des Genabschnittes stattfinden
+- Bei Transkription entstehen Enzyme, die den Indktuktor wieder abbauen &rightarrow; nach Transkription bindet der Repressor wieder an Operator und verhindert erneute Transkription
+
+### Operon 
+- Genabschnitt mit: 
+    - Promotor
+    - Operator
+    - Strukturgenen
+
+
+# Translation 
+- Herstellung von Protein aus RNA
+
+## Codierung
+- Proteine bestehen aus Aminosäuren. Insgesamt 20 versch. Aminosäuren
+- Basentriplet / Codon steht für eine bestimmte Aminosäure. Hierbei gibt es auch:
+    - Startcodon AUG &rightarrow; Met
+    - Stopcodon 
+
+## tRNA 
+- Bindet an der einen Seite drei Nukleotide (Anticodon) und an anderen Seite eine Aminosäure, die zum Codon passt
+- Wird bei Translation verwendet, um Aminosäure an RNA zu binden
+
+![](./trna.png)
+
+## Aufbau Ribosom
+- Eingangsstelle / Erkennungsort (**A**)
+- Polypeptidstelle (**P**)
+    - Aminosäurekette entsteht hier
+- Ausgangsstelle (**E**)
+![](./ribosom.png)
+
+## Shine-Dalgarno-Sequenz
+- Befindet sich auf der mRNA
+- Erkennungssequenz für das Ribosom für die Richtung der Translation
+- Initiationsfaktoren binden daran
+
+
+## Ablauf Translation 
+### Initiation
+- RNA wird mit Startcodon an A-Stelle des Ribosoms geschoben 
+### Elongation (Verlängerung von Aminosäurenkette)
+- tRNA mit Aminosäure bindet an Start-Codon
+- RNA wird eine Stelle weiter geschoben
+    - Startcodon steht an P-Stelle
+    - nächstes Codon steht an A-Stelle
+- tRNA mit Aminosäure bindet an der A-Stelle 
+    - &rightarrow; Prätranslationaler Zustand
+- Aminosäure von P-Stelle wird auf die Aminosäure der A-Stelle übertragen 
+- Peptidyl-Transferase Enzym stellt Peptidbindung zwischen den Aminosäuren her
+- RNA wandert ein Codon weiter
+    - &rightarrow; Posttranslationaler Zustand
+- an A-Stelle wird neue tRNA gebunden, an A-Stelle wird leere tRNA abgestoßen 
+- Vorgang wiederholt sich 
+### Terminierung
+- Wenn Stop-Codon erreicht ist
+
+## Nukleasenaktivität 
+- Hilft beim Abbau von Neukleotiden auf der RNA
 
 ### Questions: 
 Bei Missmatch-Reparatur --> Wie kann man sicherstellen, welches die nicht passende Base ist? 
